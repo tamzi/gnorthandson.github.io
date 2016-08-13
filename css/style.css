@@ -19618,7 +19618,7 @@ a {
 }
 #footer-inner {
     height: 500px;
-    background-color: #222;
+    background-color: #222; /*footer background*/
     padding-top: 30px;
 }
 #footer-inner
